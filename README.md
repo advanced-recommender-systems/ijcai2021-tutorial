@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Deep Learning for Recommendations: Fundamentals and Advances
 
-You can use the [editor on GitHub](https://github.com/advanced-recommender-systems/ijcai2021-tutorial/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Recommender systems have become increasingly important in our daily lives since they play an important role in mitigating the information overload problem, especially in many user-oriented online services. Recommender systems aim to identify a set of objects (i.e., items) that best match users’ explicit or implicit preferences, by utilizing the user and item interactions to improve the matching accuracy. With the fast advancement of deep neural networks (DNNs) in the past few decades, recommendation techniques have achieved promising performance. However, most existing DNNs based methods suffer some drawbacks in practice. More specifically, they consider the recommendation procedure as a static process and make recommendations following a fixed greedy strategy; the majority of existing DNNs based recommender systems are based on hand-crafted hyper-parameters and deep neural network architectures; and they treat each interaction as a separate data instance and overlooks the relations among instances.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this tutorial, we aim to give a comprehensive survey on the recent progress of advanced techniques in solving the above problems in deep recommender systems, including Deep Reinforcement Learning (DRL), Automated Machine Learning (AutoML), and Graph Neural Networks (GNNs). In this way, we expect researchers from the three fields can get deep understanding and accurate insight into the spaces, stimulate more ideas and discussions, and promote developments of technologies in recommendations.
 
 ### Markdown
 
